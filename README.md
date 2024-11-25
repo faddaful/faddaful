@@ -1,24 +1,22 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFs-0rXhRBlnQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1677501583599?e=1732147200&v=beta&t=DFRKrarihlq44lrTRn8dMW075I1HjyFGoEuAKmcy01U)
 <h1 align="center">Hi 👋, I'm Ibraheem Olayanju</h1>
-<h3 align="center"> A Data Engineer from the UK</h3>
+<h3 align="center"> A Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faddaful&label=Profile%20views&color=0e75b6&style=flat" alt="faddaful" /> </p>
 
 <p align="left"> <a href="https://twitter.com/biodunolayanju" target="blank"><img src="https://img.shields.io/twitter/follow/biodunolayanju?logo=twitter&style=for-the-badge" alt="biodunolayanju" /></a> </p>
 
-- 🔭 I’m currently working on **a Personal Data project**
+- 🔭 I’m currently working on **anything interesting**
 
 - 🌱 I’m currently learning **Microsoft Fabrics**
 
-- 👯 I’m looking to collaborate on **Optimised Streaming Pipelines**
+- 👯 I’m looking to collaborate on **Optimised Streaming Pipelines on MS or AWS**
 
 - 🤝 I’m looking for help with **Open Source Contributions**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ibraheem-olayanju](https://www.linkedin.com/in/ibraheem-olayanju)
 
-- 💬 Ask me about **SQL CTEs and Store Procedures**
-
-- 📫 How to reach me **olayanjuibraheem1@gmail.com**
+- 💬 Ask me about **What's bothering your mind?**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ibraheem-olayanju](https://www.linkedin.com/in/ibraheem-olayanju)
 
