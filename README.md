@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/biodunolayanju" target="blank"><img src="https://img.shields.io/twitter/follow/biodunolayanju?logo=twitter&style=for-the-badge" alt="biodunolayanju" /></a> </p>
 
-- 🔭 I’m currently working on **anything interesting**
+- 🔭 I’m currently working on **finding and fixing bugs**
 
-- 🌱 I’m currently learning **Microsoft Fabrics**
+- 🌱 I’m currently learning **Anything New**
 
-- 👯 I’m looking to collaborate on **Optimised Streaming Pipelines on MS or AWS**
+- 👯 I’m looking to collaborate on **Automated Streaming Pipelines**
 
 - 🤝 I’m looking for help with **Open Source Contributions**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ibraheem-olayanju](https://www.linkedin.com/in/ibraheem-olayanju)
+- 📝 I sometimes write articles on [https://www.linkedin.com/in/ibraheem-olayanju](https://www.linkedin.com/in/ibraheem-olayanju)
 
-- 💬 Ask me about **What's bothering your mind?**
+- 💬 Ask me about **Anything**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ibraheem-olayanju](https://www.linkedin.com/in/ibraheem-olayanju)
 
