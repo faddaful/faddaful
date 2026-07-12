@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/biodunolayanju" target="blank"><img src="https://img.shields.io/twitter/follow/biodunolayanju?logo=twitter&style=for-the-badge" alt="biodunolayanju" /></a> </p>
 
 - 🌱 I am currenly learning
-Exporing Modern Data Stack (dbt, pyspark, Airbyte, Data fabric)
-Azure Cloud (Already worked with AWS & GCP)
-How to architectect better data system
+    - Exporing Modern Data Stack (dbt, pyspark, Airbyte, Data fabric)
+    - Azure Cloud (Already worked with AWS & GCP)
+    - How to architectect better data system
 
 - 👯 I’m looking to collaborate on **Data related projects**
 
