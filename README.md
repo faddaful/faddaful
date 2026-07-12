@@ -6,21 +6,22 @@
 
 <p align="left"> <a href="https://twitter.com/biodunolayanju" target="blank"><img src="https://img.shields.io/twitter/follow/biodunolayanju?logo=twitter&style=for-the-badge" alt="biodunolayanju" /></a> </p>
 
-- 🔭 I’m currently working on **finding and fixing bugs**
+- 🌱 I am currenly learning
+Exporing Modern Data Stack (dbt, pyspark, Airbyte, Data fabric)
+Azure Cloud (Already worked with AWS & GCP)
+How to architectect better data system
 
-- 🌱 I’m currently learning **Anything New**
-
-- 👯 I’m looking to collaborate on **Automated Streaming Pipelines**
+- 👯 I’m looking to collaborate on **Data related projects**
 
 - 🤝 I’m looking for help with **Open Source Contributions**
 
 - 📝 I sometimes write articles on [https://www.linkedin.com/in/ibraheem-olayanju](https://www.linkedin.com/in/ibraheem-olayanju)
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Data Mesh**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ibraheem-olayanju](https://www.linkedin.com/in/ibraheem-olayanju)
 
-- ⚡ Fun fact **Go Kart Driver and Formula 1 Fan**
+- ⚡ I am a **Go Kart Driver and Formula 1 Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
