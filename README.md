@@ -1,14 +1,14 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFs-0rXhRBlnQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1677501583599?e=1732147200&v=beta&t=DFRKrarihlq44lrTRn8dMW075I1HjyFGoEuAKmcy01U)
 <h1 align="center">Hi 👋, I'm Ibraheem Olayanju</h1>
-<h3 align="center"> A Data Engineer</h3>
+<h3 align="center"> A Data/Analytics Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faddaful&label=Profile%20views&color=0e75b6&style=flat" alt="faddaful" /> </p>
 
 <p align="left"> <a href="https://twitter.com/biodunolayanju" target="blank"><img src="https://img.shields.io/twitter/follow/biodunolayanju?logo=twitter&style=for-the-badge" alt="biodunolayanju" /></a> </p>
 
-- 🌱 I am currenly learning
+- 🌱 I am currenly
     - Exporing Modern Data Stack (dbt, pyspark, Airbyte, Data fabric)
-    - Azure Cloud (Already worked with AWS & GCP)
+    - Deepening Azure Cloud (Already worked with AWS & GCP)
     - How to architectect better data system
 
 - 👯 I’m looking to collaborate on **Data related projects**
