@@ -1,43 +1,69 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFs-0rXhRBlnQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1677501583599?e=1732147200&v=beta&t=DFRKrarihlq44lrTRn8dMW075I1HjyFGoEuAKmcy01U)
-<h1 align="center">Hi 👋, I'm Ibraheem Olayanju</h1>
-<h3 align="center"> A Data/Analytics Engineer</h3>
+<h1 align="center">Hi, I'm Ibraheem Olayanju</h1>
+<h3 align="center">Data / Analytics Engineer. Building data systems by day, products by night.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faddaful&label=Profile%20views&color=0e75b6&style=flat" alt="faddaful" /> </p>
-
-<p align="left"> <a href="https://twitter.com/biodunolayanju" target="blank"><img src="https://img.shields.io/twitter/follow/biodunolayanju?logo=twitter&style=for-the-badge" alt="biodunolayanju" /></a> </p>
-
-- 🌱 I am currenly
-    - Exporing Modern Data Stack (dbt, pyspark, Airbyte, Data fabric)
-    - Deepening Azure Cloud (Already worked with AWS & GCP)
-    - How to architect better data system
-
-- 👯 I’m looking to collaborate on **Data related projects**
-
-- 🤝 I’m looking for help with **Open Source Contributions**
-
-- 📝 I sometimes write articles on [https://www.linkedin.com/in/ibraheem-olayanju](https://www.linkedin.com/in/ibraheem-olayanju)
-
-- 💬 Ask me about **Data Mesh**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/ibraheem-olayanju](https://www.linkedin.com/in/ibraheem-olayanju)
-
-- ⚡ I am a **Go Kart Driver and Formula 1 Fan**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/biodunolayanju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biodunolayanju" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ibraheem-olayanju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibraheem-olayanju" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithib" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/olayanjuibrahee1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="olayanjuibrahee1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ibraheem-olayanju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ibraheem-olayanju" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.youtube.com/c/codewithib" target="_blank"><img src="https://img.shields.io/badge/YouTube-codewithIB-red?logo=youtube&logoColor=white&style=for-the-badge" alt="codewithIB on YouTube" /></a>
+  <a href="https://linkedin.com/in/ibraheem-olayanju" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ibraheem--olayanju-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/biodunolayanju" target="_blank"><img src="https://img.shields.io/twitter/follow/biodunolayanju?logo=x&style=for-the-badge" alt="Twitter" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faddaful&show_icons=true&locale=en&layout=compact" alt="faddaful" /></p>
+I build data pipelines, quality frameworks, and the platforms that sit underneath analytics. Currently working in the energy sector on portfolio data, engineering and reporting products, while shipping data products personally.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faddaful&show_icons=true&locale=en" alt="faddaful" /></p>
+- **Currently learning:** the Modern Data Stack (dbt, PySpark, Airbyte, data fabric) and deepening Azure (already worked with AWS and GCP)
+- **Currently building:** better-architected data systems, and writing about it as I go
+- **Ask me about:** data quality, pipelines, Data Mesh, or breaking into data careers
+- **Open to collaborating on** data projects and open source contributions
+- I share data engineering and tech career content on [YouTube: codewithIB](https://www.youtube.com/c/codewithib)
+- Off the keyboard: go-kart driver and Formula 1 fan
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faddaful&" alt="faddaful" /></p>
+## Featured Projects
 
+| Project | What it shows |
+|---|---|
+| [**Bank Transaction Pipeline**](https://github.com/faddaful/bank_transaction_pipeline) | Personal finance ELT: bank API to scheduled ingestion to SQLite/Postgres, with a Streamlit dashboard |
+| [**Data Quality Checks, no frameworks**](https://github.com/faddaful/data_quality_checks_demo) | Production-grade data quality checks in plain Python and DuckDB. No Great Expectations needed |
+| [**Kafka AWS Streaming Pipeline**](https://github.com/faddaful/kafka-aws-streaming-pipeline) | Real-time stock market events: Kafka on EC2 to S3, Glue, and Athena, queryable in seconds |
+| [**UK Land Registry Pipeline**](https://github.com/faddaful/data-pipeline-with-apache-beam) | Apache Beam and FastAPI, scaling to GCP with BigQuery, Pub/Sub, Terraform, K8s and CircleCI |
+| [**Fashion Trend Prediction**](https://github.com/faddaful/Fashion-Trend-Prediction-for-E-commerce-store-using-EfficientNetB1-B7) | Deep learning with EfficientNet transfer learning and K-means clustering (TensorFlow/Keras) |
+
+## Core Stack
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
+</p>
+
+**Exploring next:** dbt, PySpark, Airbyte, DuckDB
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://img.shields.io/github/followers/faddaful?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/faddaful?label=Stars&style=for-the-badge&logo=github&affiliations=OWNER" alt="GitHub stars" />
+  <img src="https://streak-stats.demolab.com?user=faddaful&theme=default&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="left">
+  <img src="https://ghchart.rshah.org/0e75b6/faddaful" alt="Contribution graph" width="100%" />
+</p>
+
+## Connect
+
+<p align="left">
+  <a href="https://www.youtube.com/c/codewithib" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithib" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ibraheem-olayanju" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibraheem-olayanju" height="30" width="40" /></a>
+  <a href="https://twitter.com/biodunolayanju" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biodunolayanju" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/ibraheem-olayanju" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+</p>
