@@ -9,7 +9,7 @@
 - 🌱 I am currenly
     - Exporing Modern Data Stack (dbt, pyspark, Airbyte, Data fabric)
     - Deepening Azure Cloud (Already worked with AWS & GCP)
-    - How to architectect better data system
+    - How to architect better data system
 
 - 👯 I’m looking to collaborate on **Data related projects**
 
