@@ -2,7 +2,7 @@
 <h3 align="center">Data / Analytics Engineer. Building data systems by day, products by night.</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/c/codewithib" target="_blank"><img src="https://img.shields.io/badge/YouTube-codewithIB-red?logo=youtube&logoColor=white&style=for-the-badge" alt="codewithIB on YouTube" /></a>
+  <a href="https://www.youtube.com/@codewithib" target="_blank"><img src="https://img.shields.io/badge/YouTube-codewithIB-red?logo=youtube&logoColor=white&style=for-the-badge" alt="codewithIB on YouTube" /></a>
   <a href="https://linkedin.com/in/ibraheem-olayanju" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ibraheem--olayanju-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://twitter.com/biodunolayanju" target="_blank"><img src="https://img.shields.io/twitter/follow/biodunolayanju?logo=x&style=for-the-badge" alt="Twitter" /></a>
 </p>
@@ -15,7 +15,7 @@ I build data pipelines, quality frameworks, and the platforms that sit underneat
 - **Currently building:** better-architected data systems, and writing about it as I go
 - **Ask me about:** data quality, pipelines, Data Mesh, or breaking into data careers
 - **Open to collaborating on** data projects and open source contributions
-- I share data engineering and tech career content on [YouTube: codewithIB](https://www.youtube.com/c/codewithib)
+- I share data engineering and tech career content on [YouTube: codewithIB](https://www.youtube.com/@codewithib)
 - Off the keyboard: go-kart driver and Formula 1 fan
 
 ## Featured Projects
@@ -62,8 +62,7 @@ I build data pipelines, quality frameworks, and the platforms that sit underneat
 ## Connect
 
 <p align="left">
-  <a href="https://www.youtube.com/c/codewithib" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithib" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@codewithib" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithib" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/ibraheem-olayanju" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibraheem-olayanju" height="30" width="40" /></a>
   <a href="https://twitter.com/biodunolayanju" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biodunolayanju" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/ibraheem-olayanju" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 </p>
