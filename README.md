@@ -9,7 +9,7 @@
 
 ---
 
-I build data pipelines, data quality frameworks, and AI platforms that powers analytics and business decisions. Currently working in the energy sector on data, AI engineering and digitl products, while shipping personal robotics automation that makes life easier.
+I build data pipelines, data quality frameworks, and AI platforms that powers analytics and business decisions. Currently working in the energy sector on data, AI engineering and digital products, while shipping personal robotics automation that makes life easier.
 
 - **Currently learning:** anything I lay my hands on
 - **Currently building:** better-architected data systems, and writing about it as I go
