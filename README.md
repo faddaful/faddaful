@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ibraheem Olayanju</h1>
-<h3 align="center">Data / Analytics Engineer. Building data systems by day, products by night.</h3>
+<h3 align="center">Data & AI Engineer. Building data systems by day, AI products by night.</h3>
 
 <p align="center">
   <a href="https://www.youtube.com/@codewithib" target="_blank"><img src="https://img.shields.io/badge/YouTube-codewithIB-red?logo=youtube&logoColor=white&style=for-the-badge" alt="codewithIB on YouTube" /></a>
@@ -9,14 +9,14 @@
 
 ---
 
-I build data pipelines, quality frameworks, and the platforms that sit underneath analytics. Currently working in the energy sector on portfolio data, engineering and reporting products, while shipping data products personally.
+I build data pipelines, data quality frameworks, and AI platforms that powers analytics and business decisions. Currently working in the energy sector on data, AI engineering and digitl products, while shipping personal robotics automation that makes life easier.
 
-- **Currently learning:** the Modern Data Stack (dbt, PySpark, Airbyte, data fabric) and deepening Azure (already worked with AWS and GCP)
+- **Currently learning:** anything I lay my hands on
 - **Currently building:** better-architected data systems, and writing about it as I go
-- **Ask me about:** data quality, pipelines, Data Mesh, or breaking into data careers
-- **Open to collaborating on** data projects and open source contributions
+- **Ask me about:** anything that makes sense to you.
+- **Open to collaborating on** interesting projects, hit me on.
 - I share data engineering and tech career content on [YouTube: codewithIB](https://www.youtube.com/@codewithib)
-- Off the keyboard: go-kart driver and Formula 1 fan
+- Off the keyboard: go-karting and Formula 1 addict
 
 ## Featured Projects
 
